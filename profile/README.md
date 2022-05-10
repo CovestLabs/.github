@@ -19,9 +19,9 @@ A community-run insurance business is formed to unify the goals and entirely own
 
 
 # **About we**
-Presentation: https://bit.ly/3Fozvxr
-Video Concept: https://bit.ly/3sjbYc3
-Website: https://www.covest.finance
-Documentation: https://docs.covest.finance/
-LinkedIn: https://www.linkedin.com/company/covest-finance
-Twitter: https://twitter.com/CovestFinance
+* Presentation: https://bit.ly/3Fozvxr
+* Video Concept: https://bit.ly/3sjbYc3
+* Website: https://www.covest.finance
+* Documentation: https://docs.covest.finance/
+* LinkedIn: https://www.linkedin.com/company/covest-finance
+* Twitter: https://twitter.com/CovestFinance
