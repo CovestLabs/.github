@@ -18,7 +18,7 @@ We revolutionized an insurance business by leveraging a blockchain-based solutio
 A community-run insurance business is formed to unify the goals and entirely owned by its members, with all profits going back to the members.
 
 
-# **About we**
+# **More Info**
 * Presentation: https://bit.ly/3Fozvxr
 * Video Concept: https://bit.ly/3sjbYc3
 * Website: https://www.covest.finance
