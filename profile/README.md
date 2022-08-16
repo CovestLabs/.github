@@ -1,4 +1,3 @@
-
 <h1 align="center">Welcome to Covest Finance <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" margin-top="5"/></h1>
 
 <p align="center" marginLeft="200">
@@ -7,20 +6,19 @@
 
 # **What is Covest Finance** <img src="https://user-images.githubusercontent.com/39422342/167291196-96b7f01b-902c-4d9b-9e76-9047ea4f6d98.png" width="45" />
 
-Covest Finance is a peer-to-peer insurance protocol that enabled people to share risk together without the need for insurance companies as the entities to manage and custody the fund.
+Covest Finance is a risk-sharing protocol that enables the seamless transfer of risk between parties in the network by replacing traditional agreements with self-executing code stored on the blockchain.
 
-# **Pay only what necessary**
+# **Blockchain-based Insurance**
 
-We revolutionized an insurance business by leveraging a blockchain-based solution to create a people-powered insurance ecosystem that is more cost-effective and more transparent.
+Rather than relying on outdated, centralized structures and processes, Covest Finance enables the seamless transfer of risk between parties in the network. We do this by replacing traditional agreements with self-executing code stored on the blockchain, thereby ensuring that the terms of all contracts are upheld.
 
-# **Run by members and thrive together**
+# **Alternative Capital Source**
 
-A community-run insurance business is formed to unify the goals and entirely owned by its members, with all profits going back to the members.
+Our smart contract technology tokenizes insurance portfolios to access to different sources of capital regardless of the insurance risk, speed, and complexity allowing risk owners, brokers, insurance carriers, and reinsurers to unlock liquidity in their portfolios.
 
 
 # **More Info**
-* Presentation: https://bit.ly/3Fozvxr
-* Video Concept: https://bit.ly/3sjbYc3
+* Presentation: https://bit.ly/3pfN7Ed
 * Website: https://www.covest.finance
 * Documentation: https://docs.covest.finance/
 * LinkedIn: https://www.linkedin.com/company/covest-finance
