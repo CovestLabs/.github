@@ -1,25 +1,15 @@
-<h1 align="center">Welcome to Covest Finance <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" margin-top="5"/></h1>
+# Covest Labs
 
-<p align="center" marginLeft="200">
-<img src="https://user-images.githubusercontent.com/39422342/167290638-f7a95754-034c-4e7a-974e-3fa32687ca8f.png" width="800" />
-</p>
+Covest Labs transforms the financial and insurance sectors by embedding innovative solutions within non-financial platforms. Our services streamline consumer access to insurance and financing, enhancing purchasing power and expense management.
 
-# **What is Covest Finance** <img src="https://user-images.githubusercontent.com/39422342/167291196-96b7f01b-902c-4d9b-9e76-9047ea4f6d98.png" width="45" />
+## Features
 
-Covest Finance is a risk-sharing protocol that enables the seamless transfer of risk between parties in the network by replacing traditional agreements with self-executing code stored on the blockchain.
+### Embedded Insurance
+Covest collaborates with leading retailers like Advice in Thailand to offer comprehensive insurance for consumer electronics, logistics, and small businesses. This seamless integration ensures robust product protection and coverage for devices such as laptops and tablets, providing customers with peace of mind and security.
 
-# **Blockchain-based Insurance**
+### Embedded Finance
+We deliver cutting-edge B2B and B2C financing solutions, including Buy Now, Pay Later (BNPL) and traditional credit options. Our mission is to boost customer purchasing power by integrating flexible financial services directly within non-financial platforms, making it easier for consumers and businesses to manage their finances and make informed purchasing decisions.
 
-Rather than relying on outdated, centralized structures and processes, Covest Finance enables the seamless transfer of risk between parties in the network. We do this by replacing traditional agreements with self-executing code stored on the blockchain, thereby ensuring that the terms of all contracts are upheld.
+## Contact
 
-# **Alternative Capital Source**
-
-Our smart contract technology tokenizes insurance portfolios to access to different sources of capital regardless of the insurance risk, speed, and complexity allowing risk owners, brokers, insurance carriers, and reinsurers to unlock liquidity in their portfolios.
-
-
-# **More Info**
-* Presentation: https://bit.ly/3pfN7Ed
-* Website: https://www.covest.finance
-* Documentation: https://docs.covest.finance/
-* LinkedIn: https://www.linkedin.com/company/covest-finance
-* Twitter: https://twitter.com/CovestFinance
+For any inquiries or issues, please contact us at info@covest.finance.
